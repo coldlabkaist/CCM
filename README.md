@@ -1,4 +1,4 @@
-# CCM (CutieContourMasking tool)
+# CCM (CutieContourMasking)
 This program provides a GUI for generating contoured videos from segmented 
 frames and corresponding mask images. It automates the process of applying 
 contour detection to pre-processed video data and assembling the processed 
